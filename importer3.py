@@ -1,6 +1,6 @@
 from sklearn.externals import joblib
 
-class ImporterClass(self):
+class ImporterClass():
 
     def __init__(self):
 
